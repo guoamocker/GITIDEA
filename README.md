@@ -1,0 +1,2 @@
+# GITIDEA
+git for idea
